@@ -1,7 +1,7 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2026-07-12",
+  "back_to": "2026-05-13",
   "empty_weekdays": [],
   "stalls": {},
   "through": "2026-11-11"
@@ -54,6 +54,8 @@
    "fe0548efbb6d"
   ],
   "prime-minister": [
+   "5b66b0b47ba3",
+   "e93c2062124b",
    "0313dd52a4b6",
    "0ac2d51a8e6d",
    "11dd724f59b8",
@@ -66,7 +68,6 @@
    "46fcb8fd11c4",
    "4879389c22c2",
    "4bf79de9b57f",
-   "5b66b0b47ba3",
    "5d39ece3ce0a",
    "5f55ea2bf403",
    "6aedb7fd4b77",
@@ -79,8 +80,10 @@
    "957f1ada7621",
    "9c3f6d712196",
    "9e87086317b6",
+   "9ed2cdcbd07c",
    "a171b3d42760",
    "a5dad63c2803",
+   "ae3f1e64cc60",
    "b017280aeb7b",
    "b22ec81f3f87",
    "b36088e5944d",
@@ -99,7 +102,6 @@
    "dc2fc4114356",
    "e1d2494906cf",
    "e7d8a1004960",
-   "e93c2062124b",
    "ea3479e53551",
    "eba7da8c8775",
    "f1464cfb612b",
