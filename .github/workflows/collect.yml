@@ -1,0 +1,39 @@
+name: Collect open data
+
+on:
+  push:
+    paths:
+      - "collect.py"
+      - ".github/workflows/collect.yml"
+  schedule:
+    # Every hour, at seven minutes past
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect
+        run: python collect.py
+      - name: Commit the data
+        if: always()
+        run: |
+          git config user.name "asx-open-data"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          git diff --cached --quiet || git commit -q -m "Data to $(date -u +%FT%H:%MZ)"
+          git pull -q --rebase
+          git push -q
