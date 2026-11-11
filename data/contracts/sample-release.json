@@ -1,0 +1,92 @@
+{
+ "awards": [
+  {
+   "date": "2026-11-09T08:39:05Z",
+   "id": "CN4287292-c212d403ab0b4e4db276c1ad1c1dcc6c",
+   "status": "active",
+   "suppliers": [
+    {
+     "id": "EXEMPTUUID-3A4D2D83E83738AB9DB79ABD527A7D9E",
+     "name": "ABCOR Engineering & Construction Inc."
+    }
+   ]
+  }
+ ],
+ "contracts": [
+  {
+   "awardID": "CN4287292-c212d403ab0b4e4db276c1ad1c1dcc6c",
+   "dateSigned": "2026-11-09T08:39:05Z",
+   "description": "FSM Tide Station Repairs",
+   "id": "CN4287292",
+   "items": [
+    {
+     "classification": {
+      "id": "72100000",
+      "scheme": "UNSPSC"
+     },
+     "id": "72100000-c212d403ab0b4e4db276c1ad1c1dcc6c"
+    }
+   ],
+   "period": {
+    "endDate": "2027-06-29T14:00:00Z",
+    "startDate": "2026-09-27T14:00:00Z"
+   },
+   "status": "active",
+   "title": "4600025808 | 6220-2025-26",
+   "value": {
+    "amount": "29741.45",
+    "currency": "AUD"
+   }
+  }
+ ],
+ "date": "2026-11-09T08:39:05Z",
+ "id": "prod-a3e392eb27f34cc3b619999cfd174244-167193f0f1e93e55b401dd4c4d3fe087",
+ "initiationType": "tender",
+ "language": "EN",
+ "ocid": "prod-a3e392eb27f34cc3b619999cfd174244",
+ "parties": [
+  {
+   "address": {
+    "countryName": "MICRONESIA, FEDERATED STATES OF",
+    "locality": "Pohnpei",
+    "postalCode": "N/A",
+    "region": "Outside Australia"
+   },
+   "contactPoint": {
+    "email": "tenders@bom.gov.au",
+    "name": "Contact Officer"
+   },
+   "id": "EXEMPTUUID-3A4D2D83E83738AB9DB79ABD527A7D9E",
+   "name": "ABCOR Engineering & Construction Inc.",
+   "roles": [
+    "supplier"
+   ]
+  },
+  {
+   "additionalIdentifiers": [
+    {
+     "id": "92637533532",
+     "scheme": "AU-ABN"
+    }
+   ],
+   "address": {},
+   "contactPoint": {
+    "email": "tenders@finance.gov.au"
+   },
+   "id": "d28c7f289bbd4f387a672cba684711da",
+   "name": "Bureau of Meteorology",
+   "roles": [
+    "procuringEntity"
+   ]
+  }
+ ],
+ "tag": [
+  "contract"
+ ],
+ "tender": {
+  "id": "prod-a3e392eb27f34cc3b619999cfd174244",
+  "limitedTenderExempt": "1",
+  "procurementMethod": "limited",
+  "procurementMethodDetails": "Limited tender"
+ }
+}
