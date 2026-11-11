@@ -10,8 +10,8 @@
   }
  },
  "contracts": {
-  "back_to": "2026-09-10",
-  "days_with_notices": 46,
+  "back_to": "2026-07-12",
+  "days_with_notices": 92,
   "newest_file": "2026-11-11.jsonl",
   "notes": [],
   "skipped": [],
@@ -60,14 +60,14 @@
  "short_positions": {
   "gave_up": [],
   "newest": "20261105",
-  "oldest": "20250903",
-  "still_to_fetch": 990,
-  "stored": 300,
+  "oldest": "20250130",
+  "still_to_fetch": 840,
+  "stored": 450,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/10/2026"
  },
- "written_utc": "2026-11-11T21:10Z"
+ "written_utc": "2026-11-11T21:32Z"
 }
