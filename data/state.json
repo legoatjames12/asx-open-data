@@ -1,11 +1,9 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2026-11-09",
+  "back_to": "2026-09-10",
   "empty_weekdays": [],
-  "stalls": {
-   "2026-11-08": 1
-  },
+  "stalls": {},
   "through": "2026-11-11"
  },
  "feeds": {
