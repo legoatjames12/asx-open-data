@@ -10,8 +10,8 @@
   }
  },
  "contracts": {
-  "back_to": "2023-03-30",
-  "days_with_notices": 1012,
+  "back_to": "2023-01-29",
+  "days_with_notices": 1060,
   "newest_file": "2026-11-12.jsonl",
   "notes": [],
   "skipped": [],
@@ -34,7 +34,7 @@
   },
   "prime-minister": {
    "listed": 50,
-   "newest": "2026-11-10T13:00:00Z"
+   "newest": "2026-11-12T13:00:00Z"
   },
   "rba-media-releases": {
    "listed": 1,
@@ -67,7 +67,7 @@
  },
  "us_treasury": {
   "files": 6,
-  "newest_row": "11/10/2026"
+  "newest_row": "11/12/2026"
  },
- "written_utc": "2026-11-12T20:48Z"
+ "written_utc": "2026-11-12T21:45Z"
 }
