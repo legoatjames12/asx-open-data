@@ -1,7 +1,7 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2026-01-13",
+  "back_to": "2025-11-14",
   "empty_weekdays": [],
   "stalls": {},
   "through": "2026-11-11"
@@ -127,9 +127,10 @@
    "b137b1310b95"
   ],
   "treasurer": [
+   "60613ce12ab7",
    "01f9d826b623",
    "161d28f54e13",
-   "60613ce12ab7",
+   "2f3637070667",
    "755080ff44cb",
    "c5163747339a",
    "d4ebdb9295b1",
