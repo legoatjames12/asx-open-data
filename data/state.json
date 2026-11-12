@@ -1,10 +1,10 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2024-07-22",
+  "back_to": "2024-05-23",
   "empty_weekdays": [],
   "stalls": {},
-  "through": "2026-11-11"
+  "through": "2026-11-12"
  },
  "feeds": {
   "accc": [
