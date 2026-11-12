@@ -1,7 +1,7 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2025-09-15",
+  "back_to": "2025-07-17",
   "empty_weekdays": [],
   "stalls": {},
   "through": "2026-11-11"
@@ -163,7 +163,7 @@
   ]
  },
  "short_positions": {
-  "complete": false,
+  "complete": true,
   "misses": {}
  }
 }
