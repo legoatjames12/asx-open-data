@@ -10,19 +10,19 @@
   }
  },
  "contracts": {
-  "back_to": "2026-03-14",
-  "days_with_notices": 187,
+  "back_to": "2026-01-13",
+  "days_with_notices": 231,
   "newest_file": "2026-11-11.jsonl",
   "notes": [],
   "skipped": [],
   "target_start": "2021-11-01",
   "through": "2026-11-11"
  },
- "day": "2026-11-11",
+ "day": "2026-11-12",
  "feeds": {
   "accc": {
    "listed": 20,
-   "newest": "2026-11-09T20:45:00Z"
+   "newest": "2026-11-11T22:01:00Z"
   },
   "apra": {
    "listed": 10,
@@ -59,15 +59,15 @@
  },
  "short_positions": {
   "gave_up": [],
-  "newest": "20261105",
-  "oldest": "20231121",
-  "still_to_fetch": 540,
-  "stored": 750,
+  "newest": "20261106",
+  "oldest": "20230424",
+  "still_to_fetch": 391,
+  "stored": 900,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/10/2026"
  },
- "written_utc": "2026-11-11T23:47Z"
+ "written_utc": "2026-11-12T01:05Z"
 }
