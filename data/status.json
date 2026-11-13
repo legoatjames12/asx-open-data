@@ -10,15 +10,15 @@
   }
  },
  "contracts": {
-  "back_to": "2022-10-01",
-  "days_with_notices": 1141,
+  "back_to": "2022-08-02",
+  "days_with_notices": 1189,
   "newest_file": "2026-11-12.jsonl",
   "notes": [],
   "skipped": [],
   "target_start": "2021-11-01",
   "through": "2026-11-12"
  },
- "day": "2026-11-12",
+ "day": "2026-11-13",
  "feeds": {
   "accc": {
    "listed": 20,
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/12/2026"
  },
- "written_utc": "2026-11-12T23:41Z"
+ "written_utc": "2026-11-13T01:01Z"
 }

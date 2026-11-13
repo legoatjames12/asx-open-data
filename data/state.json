@@ -1,7 +1,7 @@
 {
  "abs_tried": true,
  "contracts": {
-  "back_to": "2022-10-01",
+  "back_to": "2022-08-02",
   "empty_weekdays": [],
   "stalls": {},
   "through": "2026-11-12"
