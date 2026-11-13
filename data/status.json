@@ -10,8 +10,8 @@
   }
  },
  "contracts": {
-  "back_to": "2022-02-03",
-  "days_with_notices": 1344,
+  "back_to": "2021-12-05",
+  "days_with_notices": 1390,
   "newest_file": "2026-11-12.jsonl",
   "notes": [],
   "skipped": [],
@@ -22,7 +22,7 @@
  "feeds": {
   "accc": {
    "listed": 20,
-   "newest": "2026-11-11T22:01:00Z"
+   "newest": "2026-11-12T23:35:00Z"
   },
   "apra": {
    "listed": 10,
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/12/2026"
  },
- "written_utc": "2026-11-13T03:51Z"
+ "written_utc": "2026-11-13T04:56Z"
 }
