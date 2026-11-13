@@ -10,8 +10,8 @@
   }
  },
  "contracts": {
-  "back_to": "2022-06-03",
-  "days_with_notices": 1242,
+  "back_to": "2022-04-04",
+  "days_with_notices": 1293,
   "newest_file": "2026-11-12.jsonl",
   "notes": [],
   "skipped": [],
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/12/2026"
  },
- "written_utc": "2026-11-13T02:03Z"
+ "written_utc": "2026-11-13T02:49Z"
 }
