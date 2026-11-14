@@ -11,12 +11,12 @@
  },
  "contracts": {
   "back_to": "2021-11-01",
-  "days_with_notices": 1420,
-  "newest_file": "2026-11-13.jsonl",
+  "days_with_notices": 1421,
+  "newest_file": "2026-11-14.jsonl",
   "notes": [],
   "skipped": [],
   "target_start": "2021-11-01",
-  "through": "2026-11-13"
+  "through": "2026-11-14"
  },
  "day": "2026-11-14",
  "feeds": {
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/13/2026"
  },
- "written_utc": "2026-11-14T00:56Z"
+ "written_utc": "2026-11-14T13:50Z"
 }
