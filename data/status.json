@@ -34,7 +34,7 @@
   },
   "prime-minister": {
    "listed": 50,
-   "newest": "2026-11-15T13:00:00Z"
+   "newest": "2026-11-16T13:00:00Z"
   },
   "rba-media-releases": {
    "listed": 1,
@@ -59,15 +59,15 @@
  },
  "short_positions": {
   "gave_up": [],
-  "newest": "20261110",
+  "newest": "20261111",
   "oldest": "20211001",
   "still_to_fetch": 0,
-  "stored": 1293,
+  "stored": 1294,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/16/2026"
  },
- "written_utc": "2026-11-17T01:00Z"
+ "written_utc": "2026-11-17T03:53Z"
 }
