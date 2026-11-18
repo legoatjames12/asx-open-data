@@ -11,12 +11,12 @@
  },
  "contracts": {
   "back_to": "2021-11-01",
-  "days_with_notices": 1423,
-  "newest_file": "2026-11-17.jsonl",
+  "days_with_notices": 1424,
+  "newest_file": "2026-11-18.jsonl",
   "notes": [],
   "skipped": [],
   "target_start": "2021-11-01",
-  "through": "2026-11-17"
+  "through": "2026-11-18"
  },
  "day": "2026-11-18",
  "feeds": {
@@ -53,8 +53,7 @@
    "newest": "2026-11-18T01:51:22Z"
   },
   "us-federal-reserve": {
-   "listed": 20,
-   "newest": "2026-11-13T21:15:00Z"
+   "note": "http 404"
   }
  },
  "short_positions": {
@@ -69,5 +68,5 @@
   "files": 6,
   "newest_row": "11/17/2026"
  },
- "written_utc": "2026-11-18T03:54Z"
+ "written_utc": "2026-11-18T13:06Z"
 }
