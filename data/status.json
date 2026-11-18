@@ -59,15 +59,15 @@
  },
  "short_positions": {
   "gave_up": [],
-  "newest": "20261111",
+  "newest": "20261112",
   "oldest": "20211001",
   "still_to_fetch": 0,
-  "stored": 1294,
+  "stored": 1295,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/17/2026"
  },
- "written_utc": "2026-11-18T02:50Z"
+ "written_utc": "2026-11-18T03:54Z"
 }
