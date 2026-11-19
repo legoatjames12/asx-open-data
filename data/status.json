@@ -5,7 +5,7 @@
    "request_form": 1
   },
   "labour-force": {
-   "lines": 3535,
+   "lines": 3573,
    "request_form": 1
   }
  },
@@ -18,7 +18,7 @@
   "target_start": "2021-11-01",
   "through": "2026-11-18"
  },
- "day": "2026-11-18",
+ "day": "2026-11-19",
  "feeds": {
   "accc": {
    "listed": 20,
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/18/2026"
  },
- "written_utc": "2026-11-18T20:53Z"
+ "written_utc": "2026-11-19T01:06Z"
 }
