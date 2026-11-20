@@ -18,7 +18,7 @@
   "target_start": "2021-11-01",
   "through": "2026-11-19"
  },
- "day": "2026-11-19",
+ "day": "2026-11-20",
  "feeds": {
   "accc": {
    "listed": 20,
@@ -59,15 +59,15 @@
  },
  "short_positions": {
   "gave_up": [],
-  "newest": "20261113",
+  "newest": "20261116",
   "oldest": "20211001",
   "still_to_fetch": 0,
-  "stored": 1296,
+  "stored": 1297,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/19/2026"
  },
- "written_utc": "2026-11-19T20:52Z"
+ "written_utc": "2026-11-20T00:59Z"
 }
