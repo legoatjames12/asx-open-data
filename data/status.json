@@ -18,7 +18,7 @@
   "target_start": "2021-11-01",
   "through": "2026-11-21"
  },
- "day": "2026-11-21",
+ "day": "2026-11-22",
  "feeds": {
   "accc": {
    "listed": 20,
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/20/2026"
  },
- "written_utc": "2026-11-21T13:57Z"
+ "written_utc": "2026-11-22T00:59Z"
 }
