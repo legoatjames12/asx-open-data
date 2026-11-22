@@ -16,7 +16,7 @@
   "notes": [],
   "skipped": [],
   "target_start": "2021-11-01",
-  "through": "2026-11-21"
+  "through": "2026-11-22"
  },
  "day": "2026-11-22",
  "feeds": {
@@ -69,5 +69,5 @@
   "files": 6,
   "newest_row": "11/20/2026"
  },
- "written_utc": "2026-11-22T12:51Z"
+ "written_utc": "2026-11-22T13:56Z"
 }
