@@ -21,8 +21,7 @@
  "day": "2026-11-23",
  "feeds": {
   "accc": {
-   "listed": 20,
-   "newest": "2026-11-12T23:35:00Z"
+   "note": "the reply held no feed items"
   },
   "apra": {
    "listed": 10,
@@ -69,5 +68,5 @@
   "files": 6,
   "newest_row": "11/20/2026"
  },
- "written_utc": "2026-11-23T13:14Z"
+ "written_utc": "2026-11-23T17:57Z"
 }
