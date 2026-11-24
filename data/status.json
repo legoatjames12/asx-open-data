@@ -18,10 +18,11 @@
   "target_start": "2021-11-01",
   "through": "2026-11-23"
  },
- "day": "2026-11-23",
+ "day": "2026-11-24",
  "feeds": {
   "accc": {
-   "note": "the reply held no feed items"
+   "listed": 20,
+   "newest": "2026-11-12T23:35:00Z"
   },
   "apra": {
    "listed": 10,
@@ -68,5 +69,5 @@
   "files": 6,
   "newest_row": "11/23/2026"
  },
- "written_utc": "2026-11-23T20:51Z"
+ "written_utc": "2026-11-24T01:04Z"
 }
