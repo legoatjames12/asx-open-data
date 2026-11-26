@@ -18,14 +18,14 @@
   "target_start": "2021-11-01",
   "through": "2026-11-25"
  },
- "day": "2026-11-25",
+ "day": "2026-11-26",
  "feeds": {
   "accc": {
    "note": "http 403"
   },
   "apra": {
    "listed": 10,
-   "newest": "2026-10-29T23:00:00Z"
+   "newest": "2026-11-25T23:00:00Z"
   },
   "arena": {
    "listed": 10,
@@ -33,7 +33,7 @@
   },
   "prime-minister": {
    "listed": 50,
-   "newest": "2026-11-24T13:00:00Z"
+   "newest": "2026-11-25T13:00:00Z"
   },
   "rba-media-releases": {
    "listed": 1,
@@ -53,7 +53,7 @@
   },
   "us-federal-reserve": {
    "listed": 20,
-   "newest": "2026-11-24T19:00:00Z"
+   "newest": "2026-11-25T20:00:00Z"
   }
  },
  "short_positions": {
@@ -66,7 +66,7 @@
  },
  "us_treasury": {
   "files": 6,
-  "newest_row": "11/24/2026"
+  "newest_row": "11/25/2026"
  },
- "written_utc": "2026-11-25T19:08Z"
+ "written_utc": "2026-11-26T02:44Z"
 }
