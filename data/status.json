@@ -49,7 +49,7 @@
   },
   "treasurer": {
    "listed": 10,
-   "newest": "2026-11-25T05:27:13Z"
+   "newest": "2026-11-26T02:56:11Z"
   },
   "us-federal-reserve": {
    "listed": 20,
@@ -58,15 +58,15 @@
  },
  "short_positions": {
   "gave_up": [],
-  "newest": "20261119",
+  "newest": "20261120",
   "oldest": "20211001",
   "still_to_fetch": 0,
-  "stored": 1300,
+  "stored": 1301,
   "waiting_on": []
  },
  "us_treasury": {
   "files": 6,
   "newest_row": "11/25/2026"
  },
- "written_utc": "2026-11-26T02:44Z"
+ "written_utc": "2026-11-26T12:12Z"
 }
