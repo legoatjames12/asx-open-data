@@ -18,14 +18,14 @@
   "target_start": "2021-11-01",
   "through": "2026-11-26"
  },
- "day": "2026-11-26",
+ "day": "2026-11-27",
  "feeds": {
   "accc": {
    "note": "http 403"
   },
   "apra": {
    "listed": 10,
-   "newest": "2026-11-25T23:00:00Z"
+   "newest": "2026-11-27T00:00:00Z"
   },
   "arena": {
    "listed": 10,
@@ -33,7 +33,7 @@
   },
   "prime-minister": {
    "listed": 50,
-   "newest": "2026-11-25T13:00:00Z"
+   "newest": "2026-11-26T13:00:00Z"
   },
   "rba-media-releases": {
    "listed": 1,
@@ -68,5 +68,5 @@
   "files": 6,
   "newest_row": "11/25/2026"
  },
- "written_utc": "2026-11-26T22:14Z"
+ "written_utc": "2026-11-27T04:54Z"
 }
